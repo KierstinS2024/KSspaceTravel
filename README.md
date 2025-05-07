@@ -1,2 +1,2 @@
 # KSspaceTravel
-Potfolio project using react
+Portfolio project using React
