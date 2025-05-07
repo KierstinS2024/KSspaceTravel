@@ -1,2 +1,62 @@
 # KSspaceTravel
-Portfolio project using React
+
+**KSspaceTravel** is a React-based portfolio project that offers users an immersive space travel booking experience. Leveraging modern web technologies, it provides an interactive interface for exploring and reserving space missions.([GitHub][1])
+
+## 🚀 Features
+
+* **Interactive Booking System**: Users can browse and book various space travel options.
+* **Responsive Design**: Ensures optimal viewing across devices.
+* **Dynamic Content**: Utilizes React's state management for real-time updates.([GitHub][2])
+
+## 🛠️ Technologies Used
+
+* **Frontend**: React, JavaScript, HTML, CSS
+* **State Management**: React Hooks
+* **Styling**: CSS Modules([GitHub][3])
+
+## 📁 Project Structure
+
+```
+KSspaceTravel/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
+```
+
+## 🧑‍💻 Getting Started
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/KierstinS2024/KSspaceTravel.git
+   cd KSspaceTravel
+   ```
+
+2. **Install dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the application**:
+
+   ```bash
+   npm start
+   ```
+
+   The app will be available at `http://localhost:3000`.
+
+## 📸 Screenshots
+
+*Include screenshots here to showcase the application's interface.*
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
