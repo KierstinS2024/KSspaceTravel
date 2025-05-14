@@ -1,6 +1,6 @@
 # KSspaceTravel
 
-**KSspaceTravel** is a React-based portfolio project that offers users an immersive space travel booking experience. Leveraging modern web technologies, it provides an interactive interface for exploring and reserving space missions.([GitHub][1])
+**KSspaceTravel** is a React-based portfolio project that offers users an immersive space travel booking experience. Leveraging modern web technologies, it provides an interactive interface for exploring and reserving space missions.
 
 ## 🚀 Features
 
@@ -12,7 +12,7 @@
 
 * **Frontend**: React, JavaScript, HTML, CSS
 * **State Management**: React Hooks
-* **Styling**: CSS Modules([GitHub][3])
+* **Styling**: CSS Modules
 
 ## 📁 Project Structure
 
