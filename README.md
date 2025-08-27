@@ -50,7 +50,7 @@ KSspaceTravel/
    npm run dev
    ```
 
-   The app will be available at `http://localhost:3000`.
+   The app should open in a browser when using VSCode
 
 ## 📸 Screenshots
 
